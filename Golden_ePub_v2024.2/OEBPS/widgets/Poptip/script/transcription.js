@@ -94,8 +94,10 @@ function bind_glossary_events(){
                         var scrollTop = $(window).scrollTop();
                         $(window).scrollTop(scrollTop + (dimens.eleBox.top - 20 ));
                     }
-                    MathJax.typeset();
-                    //MathJax.typesetPromise()
+                    if (typeof MathJax !== 'undefined' && typeof MathJax !== 'null'){
+                        MathJax.typeset();
+                        //MathJax.typesetPromise()
+                    }
                 }
                 var data = null;
                 if (res.data) {

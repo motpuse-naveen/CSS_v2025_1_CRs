@@ -906,7 +906,7 @@ padding-left: 5px;
 padding-top: 5px;
 text-align: center;
 }
-.vidleg
+.vidleg, .ddesc
 {
 font-size: 16px;
 line-height: 1.2em;
@@ -5024,4 +5024,11 @@ iframe.flashcard_activityframe {
 
 iframe.flashcard_activityframe::-webkit-scrollbar {
     display: none;
+}
+
+/********** RICE-67 (set audio frame to 100%) ***********/
+
+iframe {
+	border:none;
+	width: 100%;
 }
