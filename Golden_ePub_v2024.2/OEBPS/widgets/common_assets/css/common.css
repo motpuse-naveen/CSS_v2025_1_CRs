@@ -45,7 +45,8 @@ video::cue {
 	font-size: 0.75rem; /* slightly larger for readability */
 	color: #fff;
 	background-color: rgba(0, 0, 0, 0.6); /* same as your rgb / syntax */
-	padding: 0.2em 0.4em; /* gives spacing around captions */
+	/*padding: 0.2em 0.4em;*/ /* gives spacing around captions */
+	padding: 30px;
 	text-shadow: 1px 1px 2px #000; /* improves readability on bright video */
 	letter-spacing: 0.3px;
 	line-height: 1.4;

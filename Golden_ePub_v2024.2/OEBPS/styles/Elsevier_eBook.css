@@ -1001,6 +1001,14 @@ text-indent: 0em;
 text-transform: uppercase;
 color: #800000;
 }
+.fignum-normal{
+	font-size: 16px;
+font-weight: bold;
+padding-right: 10px;
+text-align: left;
+text-indent: 0em;
+color: #800000;
+}
 .tablediv
 {
 background-color: #E3F2E7;
