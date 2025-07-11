@@ -109,9 +109,6 @@
    <item id="Vid4" href="videos/mmc04-02-9780323917544.mp4" media-type="video/mp4"/>
    <item id="Vid4_vtt" href="videos/mmc04-02-9780323917544.vtt" media-type="text/vtt"/>
 
-   <item id="video-0005" href="https://static.us.elsevierhealth.com/knechtle_9_9780443113291/9780443113291_0005.m3u8" media-type="application/vnd.apple.mpegurl" properties="remote-resource"/>
-
-
 <item id="Update_04" href="widgets/common_assets/scripts/hlsjs/hls.js" media-type="application/javascript"/>
 <item id="Update_05" href="widgets/common_assets/scripts/hlsjs/hls.js.map" media-type="application/json"/>
 <item id="Update_06" href="widgets/common_assets/scripts/hlsjs/hls.min.js" media-type="application/javascript"/>
