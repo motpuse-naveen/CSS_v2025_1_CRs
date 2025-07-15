@@ -73,7 +73,7 @@
 	<item id="CHP001a" href="xhtml/Ch001_Extended_Fig1_1.xhtml" media-type="application/xhtml+xml"/>
 	<item id="cssme" href="styles/media.css" media-type="text/css"/>
 	<item id="cssma" href="styles/math.css" media-type="text/css"/>
-   <item id="css_synth" href="styles/synth.css" media-type="text/css"/>
+	<item id="css_synth" href="styles/synth.css" media-type="text/css"/>
 	<item href="styles/math.js" id="mathjs" media-type="text/javascript"/>
 	<item id="Appendix" href="xhtml/Appendix-A_19_B9780124158207000173.xhtml" media-type="application/xhtml+xml"/>
 	<item id="Glossary" href="xhtml/Glossary_20_B9780124158207000054.xhtml" media-type="application/xhtml+xml"/>
