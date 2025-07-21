@@ -155,7 +155,7 @@ setTimeout(function () {
 				if (answerElement.style.display === "none" || !answerElement.style.display) {
 					answerElement.style.display = "block"; // Show the element
 					answerElement.style.transition = "max-height 0.2s ease-in-out";
-					answerElement.style.maxHeight = "500px"; // Example height, adjust as needed
+					answerElement.style.maxHeight = "250px"; // Example height, adjust as needed
 				} else {
 					answerElement.style.display = "none"; // Hide the element
 					answerElement.style.maxHeight = "0";
